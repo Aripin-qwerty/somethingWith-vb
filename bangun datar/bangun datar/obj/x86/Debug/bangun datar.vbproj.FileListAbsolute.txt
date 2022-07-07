@@ -1,0 +1,11 @@
+D:\Aripin Maulana\vb.net\bangun datar\bangun datar\bin\Debug\bangun datar.exe
+D:\Aripin Maulana\vb.net\bangun datar\bangun datar\bin\Debug\bangun datar.pdb
+D:\Aripin Maulana\vb.net\bangun datar\bangun datar\bin\Debug\bangun datar.xml
+D:\Aripin Maulana\vb.net\bangun datar\bangun datar\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Aripin Maulana\vb.net\bangun datar\bangun datar\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Aripin Maulana\vb.net\bangun datar\bangun datar\obj\x86\Debug\bangun datar.vbproj.GenerateResource.Cache
+D:\Aripin Maulana\vb.net\bangun datar\bangun datar\obj\x86\Debug\bangun datar.exe
+D:\Aripin Maulana\vb.net\bangun datar\bangun datar\obj\x86\Debug\bangun datar.xml
+D:\Aripin Maulana\vb.net\bangun datar\bangun datar\obj\x86\Debug\bangun datar.pdb
+D:\Aripin Maulana\vb.net\bangun datar\bangun datar\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Aripin Maulana\vb.net\bangun datar\bangun datar\obj\x86\Debug\WindowsApplication1.Form3.resources

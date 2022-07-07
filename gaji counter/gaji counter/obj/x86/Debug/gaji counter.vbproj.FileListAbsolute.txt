@@ -1,0 +1,9 @@
+D:\Aripin Maulana\vb.net\gaji counter\gaji counter\bin\Debug\gaji counter.exe
+D:\Aripin Maulana\vb.net\gaji counter\gaji counter\bin\Debug\gaji counter.pdb
+D:\Aripin Maulana\vb.net\gaji counter\gaji counter\bin\Debug\gaji counter.xml
+D:\Aripin Maulana\vb.net\gaji counter\gaji counter\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Aripin Maulana\vb.net\gaji counter\gaji counter\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Aripin Maulana\vb.net\gaji counter\gaji counter\obj\x86\Debug\gaji counter.vbproj.GenerateResource.Cache
+D:\Aripin Maulana\vb.net\gaji counter\gaji counter\obj\x86\Debug\gaji counter.exe
+D:\Aripin Maulana\vb.net\gaji counter\gaji counter\obj\x86\Debug\gaji counter.xml
+D:\Aripin Maulana\vb.net\gaji counter\gaji counter\obj\x86\Debug\gaji counter.pdb

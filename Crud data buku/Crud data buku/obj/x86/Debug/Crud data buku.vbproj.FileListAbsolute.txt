@@ -1,0 +1,9 @@
+D:\Aripin Maulana\vb.net\Crud data buku\Crud data buku\bin\Debug\Crud data buku.exe
+D:\Aripin Maulana\vb.net\Crud data buku\Crud data buku\bin\Debug\Crud data buku.pdb
+D:\Aripin Maulana\vb.net\Crud data buku\Crud data buku\bin\Debug\Crud data buku.xml
+D:\Aripin Maulana\vb.net\Crud data buku\Crud data buku\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Aripin Maulana\vb.net\Crud data buku\Crud data buku\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Aripin Maulana\vb.net\Crud data buku\Crud data buku\obj\x86\Debug\Crud data buku.vbproj.GenerateResource.Cache
+D:\Aripin Maulana\vb.net\Crud data buku\Crud data buku\obj\x86\Debug\Crud data buku.exe
+D:\Aripin Maulana\vb.net\Crud data buku\Crud data buku\obj\x86\Debug\Crud data buku.xml
+D:\Aripin Maulana\vb.net\Crud data buku\Crud data buku\obj\x86\Debug\Crud data buku.pdb
